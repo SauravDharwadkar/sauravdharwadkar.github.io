@@ -1,1 +1,5 @@
 
+This is a Brave Rewards publisher verification file.
+
+Domain: sauravdharwadkar.github.io
+Token: 5b9f268347ba74688107a31b453e2059db50d0ad2cbdaefd9adde46167cd64a3
