@@ -20,7 +20,7 @@ function displayTimeline(configData){
 
 //work only with github.io site
 let username = window.location.href.split("https://")[1].split(".")[0];
-let url= "https://raw.githubusercontent.com/"+username+"/SauravDharwadkar/master/timeline.json";
+let url= "https://raw.githubusercontent.com/"+username+"/"+username+"/master/timeline.json";
 //url can be set to localdir but wanted to reuse config in other things also
 fetch("/test.json")
         .then(response => response.json())
