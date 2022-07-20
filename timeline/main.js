@@ -22,7 +22,7 @@ function displayTimeline(configData){
 let username = window.location.href.split("https://")[1].split(".")[0];
 let url= "https://raw.githubusercontent.com/"+username+"/"+username+"/master/timeline.json";
 //url can be set to localdir but wanted to reuse config in other things also
-fetch(url)
+fetch(url,{cache: "no-store"})
         .then(response => response.json())
         .then(data => displayTimeline(data));
     
