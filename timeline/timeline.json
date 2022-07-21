@@ -1,0 +1,374 @@
+[{
+    "flag": "",
+    "date": "20",
+    "desc": "",
+    "url": "",
+    "cssclass":""
+},{
+    "flag": "first app deploymen on heroku cloud",
+    "date": "2019 dec 4",
+    "desc": "",
+    "url": "",
+    "cssclass":""
+},{
+    "flag": "radio transmitter using raspberry pi",
+    "date": "2019 sep 19",
+    "desc": "build a fm radio transmitter and am transmitter which are capable of playing song on notmal fm radio and overriding existing channels",
+    "url": "",
+    "cssclass":""
+},{
+    "flag": "presented networkeye deploma project for startup",
+    "date": "2019 sep 20",
+    "desc": "after good presetation , THIS ISNT AVAILABLE FOR SECOND YEAR STUDENTS ",
+    "url": "",
+    "cssclass":""
+},{
+    "flag": "installed android on rpi",
+    "date": "2019 sep 12",
+    "desc": "installed lineageos and failed to compile kernel with hardware accel",
+    "url": "",
+    "cssclass":""
+},{
+    "flag": "took admission to bhartividyapeeth",
+    "date": "2019 sep 1",
+    "desc": "wanna cry",
+    "url": "",
+    "cssclass":""
+},{
+    "flag": "set foot to dark web",
+    "date": "2019 aug 10",
+    "desc": "surf dark web on tor browser and host simple site on dark web",
+    "url": "",
+    "cssclass":"hlt"
+},{
+    "flag": "jainbreak jiophone",
+    "date": "2019 jun 30",
+    "desc": "installed custom firmware on my jio phone to enable hotspot",
+    "url": "",
+    "cssclass":""
+},{
+    "flag": "motocam Ar ",
+    "date": "2019 may 27",
+    "desc": "android app that toggles build.prop and other files so you can use ar cam as well motocam on device .",
+    "url": "",
+    "cssclass":""
+},{
+    "flag": "Motocam Magisk",
+    "date": "2019 may 25",
+    "desc": "magisk module for moto g5s+ device specific cam module that brings stock camera features to custom rom, module uses bash script injected in startup service of magisk to work with playstore update of moto cam and paths things",
+    "url": "https://androidfilehost.com/?fid=6006931924117880968",
+    "cssclass":"hlt"
+},{
+    "flag": "project competition kolhapur",
+    "date": "2019 mar 14",
+    "desc": "went to kolhapurs sanjaygodavat clg for project comepetition representing jspm , with mahesh m and yash g made a raspberry pi based device for blind person which uses ultra sonic sensor, telegram python api , opencv2 (example from coding from enterprenuer face detection) made a wearable hat that speak person name(which trained by model) of tell them when theres an obstacle or onclick perform actions and send mesages on telegram based on events ",
+    "url": "",
+    "cssclass":"hlt"
+},{
+    "flag": "first gcam night sight",
+    "date": "2018 oct 30",
+    "desc": "hooked up to gcam",
+    "url": "",
+    "cssclass":""
+},{
+    "flag": "First dual boot android",
+    "date": "2018 aug 20",
+    "desc": "dualboot android phone with two roms",
+    "url": "",
+    "cssclass":""
+},{
+    "flag": "first kali linux install",
+    "date": "2018 aug 1",
+    "desc": "installed kali linux for hacking stuff , now i use blackarch btw",
+    "url": "",
+    "cssclass":""
+},{
+        "flag": "started hacking",
+        "date": "2018 jul 25",
+        "desc": "started hacking with msf framework and hoocked up to hacking and stuff",
+        "url": "",
+        "cssclass":""
+    },{
+        "flag": "First Python program",
+        "date": "2018 jul 16",
+        "desc": "hook up to python programming lang which wasnt in sylabus",
+        "url": "",
+        "cssclass":""
+    },{
+        "flag": "First dos attack",
+        "date": "2018 jul 14",
+        "desc": "first failed dos attack but slowed network down",
+        "url": "",
+        "cssclass":""
+    },{
+        "flag": "Traveling horror",
+        "date": "2018 jun 29",
+        "desc": "road are closed partially then completely for railway trackline and flyover , DATE:2022 jul 21 still WIP",
+        "url": "",
+        "cssclass":""
+    },{
+        "flag": "File Find Mobile app",
+        "date": "2017 jun 22",
+        "desc": "build a android clone of my own file find website which uses google filter to find , search file on internet with indexing and other stuff",
+        "url": "",
+        "cssclass":""
+    },{
+        "flag": "smart bus app",
+        "date": "2018 may 31",
+        "desc": "simple smart bus app that shows the hardcoded data of the pmt buses",
+        "url": "",
+        "cssclass":""
+    },{
+        "flag": "Android studio",
+        "date": "2018 may 12",
+        "desc": "first time using of android studio and build simple webview for my other sites apps2jsp.site11.com",
+        "url": "",
+        "cssclass":""
+    },{
+        "flag": "First time using chromiumOs / cloudready",
+        "date": "2018 apr 24",
+        "desc": "booted up chromium os on old laptop",
+        "url": "",
+        "cssclass":""   
+    },{
+        "flag": "knokking sence to friend",
+        "date": "2018 apr 14",
+        "desc": "giving parle-g with atharva , shubham B for a week to the friend who gotten in bike accident for rash driving.",
+        "url": "",
+        "cssclass":""
+    },{
+        "flag": "First DIY neck band",
+        "date": "2017 dec 12",
+        "desc": "cut malfunctioning samsung heaphone and attach to mono bluethooth",
+        "url": "",
+        "cssclass":""
+    },{
+        "flag": "Hook up to networking",
+        "date": "2017 dec ~11",
+        "desc": "crimping cables and setuping lan and more just loved it",
+        "url": "",
+        "cssclass":""
+    },{
+        "flag": "Completed Bully game",
+        "date": "2017 oct 23",
+        "desc": "Rockstar game based on school life",
+        "url": "/",
+        "cssclass":""
+    },{
+        "flag": "First debian Linux with GUI on android",
+        "date": "2017 oct 17",
+        "desc": "using sdl and old root android software that i cant remmeber now ",
+        "url": "",
+        "cssclass":""
+    },
+    {
+        "flag": "DIY vigyan ashram",
+        "date": "2017 sep 21",
+        "desc": "inspiring diy stuff",
+        "url": "http://vigyanashram.com/",
+        "cssclass":""
+    },
+    {
+        "flag": "1st school",
+        "date": "2006",
+        "desc": "marathi medium local gov school",
+        "url": "",
+        "cssclass":""
+    },
+    {
+        "flag": "1st school",
+        "date": "2006",
+        "desc": "marathi medium local gov school",
+        "url": "",
+        "cssclass":""
+    },
+    {
+        "flag": "1st school",
+        "date": "2006",
+        "desc": "marathi medium local gov school",
+        "url": "",
+        "cssclass":""
+    },
+    {
+        "flag": "1st school",
+        "date": "2006",
+        "desc": "marathi medium local gov school",
+        "url": "",
+        "cssclass":""
+    },
+    {
+        "flag": "1st school",
+        "date": "2006",
+        "desc": "marathi medium local gov school",
+        "url": "",
+        "cssclass":""
+    },
+    {
+        "flag": "1st school",
+        "date": "2006",
+        "desc": "marathi medium local gov school",
+        "url": "",
+        "cssclass":""
+    },
+    {
+        "flag": "1st school",
+        "date": "2006",
+        "desc": "marathi medium local gov school",
+        "url": "",
+        "cssclass":""
+    },
+    {
+        "flag": "1st school",
+        "date": "2006",
+        "desc": "marathi medium local gov school",
+        "url": "",
+        "cssclass":""
+    },
+    {
+        "flag": "1st school",
+        "date": "2006",
+        "desc": "marathi medium local gov school",
+        "url": "",
+        "cssclass":""
+    },
+    {
+        "flag": "1st school",
+        "date": "2006",
+        "desc": "marathi medium local gov school",
+        "url": "",
+        "cssclass":""
+    },
+    {
+        "flag": "1st school",
+        "date": "2006",
+        "desc": "marathi medium local gov school",
+        "url": "",
+        "cssclass":""
+    },
+    {
+        "flag": "1st school",
+        "date": "2006",
+        "desc": "marathi medium local gov school",
+        "url": "",
+        "cssclass":""
+    },
+    {
+        "flag": "1st school",
+        "date": "2006",
+        "desc": "marathi medium local gov school",
+        "url": "",
+        "cssclass":""
+    },
+    {
+        "flag": "First Linux Ubuntu 16.04 installation",
+        "date": "2017 sep 14",
+        "desc": "gotten hookup to linux in clg workshop and stated using it as daily drive except gaming",
+        "url": "",
+        "cssclass":""
+    },
+    {
+        "flag": "wireless telephone",
+        "date": "2017 sep 5",
+        "desc": "added bluetooth to traditional telephone",
+        "url": "",
+        "cssclass":""
+    },
+    {
+        "flag": "Pro photography",
+        "date": "2017 apr",
+        "desc": "first dslr photoshoot learn basics pf photography from professional photographer friend",
+        "url": "",
+        "cssclass":""
+    },
+    {
+        "flag": "2nd place in postermaking ",
+        "date": "2017 feb 15",
+        "desc": "made poster in photoshop (pirated) of agriculture awareness",
+        "url": "",
+        "cssclass":""
+    },
+    {
+        "flag": "TechMonthen 2017 ",
+        "date": "2017 feb 14 ",
+        "desc": "participated in multiple competition got to the semi final in cs 1.6 with somesh , pranav and other friends",
+        "url": "",
+        "cssclass":""
+    },
+    {
+        "flag": "simple lens projector",
+        "date": "2017 jan 30",
+        "desc": "build mini projector from lens",
+        "url": "",
+        "cssclass":""
+    },
+    {
+        "flag": "First Programming Lang c",
+        "date": "2019 dec ~19",
+        "desc": "PIC Programming in C , gotten hook up to the programming",
+        "url": "",
+        "cssclass":""
+    },
+    {
+        "flag": "Brainstorm",
+        "date": "2016 sep 16th",
+        "desc": "first complement from teacher for going toe to toe with 2nd & 3rd years.",
+        "url": "",
+        "cssclass":""
+    },
+    {
+        "flag": "Diploma clg",
+        "date": "2016 AUG",
+        "desc": "took admission to JSPM Hadapsar",
+        "url": "https://jspmjspoly.edu.in/",
+        "cssclass":"hlt"
+    },
+    {
+        "flag": "1st job",
+        "date": "2016 ~3 Month",
+        "desc": "datta  xerox / computer repair shop.",
+        "url": "",
+        "cssclass":""
+    },
+    {
+        "flag": "10th ",
+        "date": "2016",
+        "desc": "completed 10th std / ssc board with 74% ",
+        "url": "",
+        "cssclass":"hlt"
+    },
+    {
+        "flag": "gurukul",
+        "date": "2006",
+        "desc": "force to handle computers , projector , make ppt and handle other stuff",
+        "url": "",
+        "cssclass":""
+    },
+    {
+        "flag": "gurukul",
+        "date": "2013",
+        "desc": "first batch of semi-gurukul digital learning",
+        "url": "",
+        "cssclass":""
+    },
+    {
+        "flag": "2nd school",
+        "date": "2010",
+        "desc": "K.K. ghule Vidyalaya, semi-english 1st batch ",
+        "url": "",
+        "cssclass":""
+    },
+    {
+        "flag": "1st school",
+        "date": "2006",
+        "desc": "marathi medium local gov school",
+        "url": "",
+        "cssclass":""
+    },
+    {
+        "flag": "Born",
+        "date": "2001",
+        "desc": "Indian",
+        "url": "",
+        "cssclass":""
+    }
+]
