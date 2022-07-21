@@ -5,7 +5,7 @@ function displayTimeline(configData){
     let timeLineHtml="";
     for (let [i, val] of configData.entries()) {
         timeLineHtml+='<li>'+
-            '<div class="direction-'+(i%2==0?'r':'l')+'">'+
+            '<div class="direction-'+(i%2==0?'r':'l')+' '+val.cssclass+' ">'+
             '<div class="flag-wrapper">'+
             '<span class="flag">'+val.flag+'</span>'+
             '<span class="time-wrapper"><span class="time">'+val.date+'</span></span>'+

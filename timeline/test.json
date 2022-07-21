@@ -1,17 +1,21 @@
-[{
-    "flag":"flag 1",
-    "date":"2006",
-    "desc":"a long desc"
-},{
-    "flag":"flag 2",
-    "date":"2004",
-    "desc":"a long desc"
-},{
-    "flag":"flag 3",
-    "date":"2002",
-    "desc":"a long desc"
-},{
-    "flag":"flag 4",
-    "date":"2001",
-    "desc":"a long desc"
+[    {
+    "flag": "2nd school",
+    "date": "2010",
+    "desc": "K.K. ghule Vidyalaya, semi-english 1st batch ",
+    "url": "",
+    "cssclass":"hlt"
+},
+{
+    "flag": "1st school",
+    "date": "2006",
+    "desc": "marathi medium local gov school",
+    "url": "",
+    "cssclass":""
+},
+{
+    "flag": "Born",
+    "date": "2001",
+    "desc": "Indian",
+    "url": "",
+    "cssclass":""
 }]
