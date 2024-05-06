@@ -2,11 +2,11 @@
 main:
   - title: "Aswone Tech"
     #url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "portfolio"
+  - title: "Portfolio"
     url: /portfolio/
-  - title: "reddit meme"
+  - title: "Reddit MEME"
     url: /reddit/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Timeline"
+    url: /timeline/
   # - title: "Sitemap"
   #   url: /sitemap/
